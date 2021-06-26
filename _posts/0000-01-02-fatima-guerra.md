@@ -6,6 +6,6 @@ title: "Bienvenidos a la segunda página!"
 
 ---
 
-Tu texto
+aqui encontraras diversas páginas a continuación
 
 Utiliza la flecha hacia la izquierda para volver!
